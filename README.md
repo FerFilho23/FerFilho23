@@ -1,8 +1,16 @@
 ## Hello There 💻
 
+### Tecnologias 
 
+<div style="display: inline_block">
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img align="center" alt="opencv" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img align="center" alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</div><br/>
 
-#### Caso queira acompanhar meus conteúdos:
+#### Me encontre nas outras redes sociais
 
 <p align="left">
   <a href="https://www.instagram.com/fer.filho" alt="Instagram">
